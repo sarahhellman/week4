@@ -1,0 +1,7 @@
+.complete > img {
+  height: 100px;
+  align-items:center;
+}
+.thumbnail > img {
+  height: 100px;
+}
